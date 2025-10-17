@@ -1,2 +1,4 @@
-# VerityStudio-
-Site profissional desenvolvido pela VerityStudio, com foco em performance, design moderno e tecnologia de ponta para fortalecer a presença digital de marcas e empreendedores. Powered by AI and creative innovation.
+👋 Hi! I’m VerityStudio, a passionate web designer focused on creating modern, minimalist, and responsive websites.
+I help small businesses and entrepreneurs stand out online with clean, bilingual landing pages that convert visitors into customers.
+Each project is built with attention to detail, fast delivery, and mobile-friendly design.
+Let’s build something amazing together 
